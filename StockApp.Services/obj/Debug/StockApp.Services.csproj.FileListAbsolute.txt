@@ -1,0 +1,9 @@
+C:\Users\гороховв.CORP\source\repos\StockApp\StockApp.Services\bin\Debug\StockApp.Services.dll
+C:\Users\гороховв.CORP\source\repos\StockApp\StockApp.Services\bin\Debug\StockApp.Services.pdb
+C:\Users\гороховв.CORP\source\repos\StockApp\StockApp.Services\bin\Debug\StockApp.Models.dll
+C:\Users\гороховв.CORP\source\repos\StockApp\StockApp.Services\bin\Debug\StockApp.Models.pdb
+C:\Users\гороховв.CORP\source\repos\StockApp\StockApp.Services\obj\Debug\StockApp.Services.csprojAssemblyReference.cache
+C:\Users\гороховв.CORP\source\repos\StockApp\StockApp.Services\obj\Debug\StockApp.Services.csproj.CoreCompileInputs.cache
+C:\Users\гороховв.CORP\source\repos\StockApp\StockApp.Services\obj\Debug\StockApp.Services.csproj.CopyComplete
+C:\Users\гороховв.CORP\source\repos\StockApp\StockApp.Services\obj\Debug\StockApp.Services.dll
+C:\Users\гороховв.CORP\source\repos\StockApp\StockApp.Services\obj\Debug\StockApp.Services.pdb

@@ -1,0 +1,6 @@
+C:\Users\гороховв.CORP\source\repos\StockApp\StockApp.Models\bin\Debug\StockApp.Models.dll
+C:\Users\гороховв.CORP\source\repos\StockApp\StockApp.Models\bin\Debug\StockApp.Models.pdb
+C:\Users\гороховв.CORP\source\repos\StockApp\StockApp.Models\obj\Debug\StockApp.Models.csprojAssemblyReference.cache
+C:\Users\гороховв.CORP\source\repos\StockApp\StockApp.Models\obj\Debug\StockApp.Models.csproj.CoreCompileInputs.cache
+C:\Users\гороховв.CORP\source\repos\StockApp\StockApp.Models\obj\Debug\StockApp.Models.dll
+C:\Users\гороховв.CORP\source\repos\StockApp\StockApp.Models\obj\Debug\StockApp.Models.pdb
